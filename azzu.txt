@@ -1,3 +1,4 @@
 hi guys 
 todays topic is git bash so all of u students please listen carefully
-
+and the nxt topic is ant and maven
+so all of u students attend classes for regularly
